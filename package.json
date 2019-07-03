@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usha-raikwar/weather-app.git"
+  },
+  "author": "Usha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usha-raikwar/weather-app/issues"
+  },
+  "homepage": "https://github.com/usha-raikwar/weather-app#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "pg": "^7.11.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.1",
+    "nodemon": "^1.19.1"
+  }
+}
